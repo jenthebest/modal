@@ -1,0 +1,9 @@
+#my-modal {
+	height: 100px;
+	width: 300px;
+	border: solid black thin;
+	background-color: tomato;
+	color: black;
+	position: fixed;
+	display: none;
+}
